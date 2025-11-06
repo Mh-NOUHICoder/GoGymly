@@ -8,8 +8,6 @@ GoGymly is a modern web application designed to help gyms streamline their daily
 ```bash
 “Built with sweat, coffee, and a few too many commits ☕”
 ```
->🏋️‍♂️ GoGymly is loading... please wait while it finishes one more rep 💪
-
 ---
 
 <p align="center">
